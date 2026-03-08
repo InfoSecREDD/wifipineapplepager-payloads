@@ -154,10 +154,11 @@ Results are:
 
   LED Color   Meaning
   ----------- ------------------
-  Cyan        Script start
-  Red         Incorrect button
-  Green       Correct combo
-  Off         Idle/reset
+  
+-   Cyan        Script start
+-   Red         Incorrect button
+-   Green       Correct combo
+-   Off         Idle/reset
 
 ------------------------------------------------------------------------
 
